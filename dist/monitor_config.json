@@ -1,0 +1,12 @@
+{
+    "gateway_ip": "192.168.137.1",
+    "target_ip": "",
+    "bg_color": "#ffffff",
+    "opacity": 0.95,
+    "line_color_native": "#1565c0",
+    "line_color_scapy": "#cc9966",
+    "alert_enabled": true,
+    "alert_silence_min": 10,
+    "alert_duration_sec": 3,
+    "mode": "native"
+}
