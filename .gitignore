@@ -1,0 +1,5 @@
+__pycache__
+build
+dist
+monitor_config.json
+WiFi-Direct.spec
