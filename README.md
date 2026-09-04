@@ -1,7 +1,8 @@
 # 网络适配器流量监控程序 NetworkAdapterTrafficMonitor
 
 Monitor the traffic of specific network adapters on your Windows
-监控您的Windows上特定网總适配器的流量
+
+监控您的Windows上特定网络适配器的流量
 
 作者 Author: Gemini 3.0 Pro Preview, Darkgreen World
 
